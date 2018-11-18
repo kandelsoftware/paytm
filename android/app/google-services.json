@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "781554550241",
+    "firebase_url": "https://kalpay-c74aa.firebaseio.com",
+    "project_id": "kalpay-c74aa",
+    "storage_bucket": "kalpay-c74aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781554550241:android:6e6b7f5cc3587e82",
+        "android_client_info": {
+          "package_name": "com.kalPay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781554550241-903gpg4mfup9fuu2rfj6u4jnu2mkl1d0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcLSn1RacHyB5lKV9VP7ST-JcYeQsbAA8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
